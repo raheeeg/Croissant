@@ -1,3 +1,18 @@
-h1 {
+h1,
+p {
   text-align: center;
+  color: brown;
+}
+
+.links {
+  text-align: center;
+}
+
+a {
+  color: green;
+  padding: 20px;
+}
+
+body {
+  background-color: #ffecaf;
 }
