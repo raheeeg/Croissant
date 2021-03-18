@@ -8,6 +8,9 @@ p {
   text-align: center;
   margin-top: 20px;
   color: green;
+}
+
+.nav-link {
   padding: 20px;
 }
 
